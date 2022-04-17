@@ -8,9 +8,10 @@ body {
 }
 
 .main {
+  min-height: 708px;
   height: 100vh;
   background: url(../img/img_2.png) 100% 97% no-repeat, url(../img/img_1.png) bottom no-repeat;
-  padding-bottom: 400px;
+  padding-bottom: 100vh;
   background-size: 70%, 100%;
 }
 
